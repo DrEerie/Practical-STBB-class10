@@ -1,0 +1,9 @@
+Practical was about the installation of Dev-C++ IDE.
+You Can find a complete step-by-step tutuorial on our youtube channel: "De Technocrats". Link is given below:
+[I'll add link later]
+
+wait !!
+Are you still looking for practical # 1 source code?
+It's may be Practical # 1 (Alternative). 
+You can find that code in the same folder "Cpp-Codefiles"
+It's named as "C10practical1ALT.cpp"
