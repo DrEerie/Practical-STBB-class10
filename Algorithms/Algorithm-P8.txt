@@ -1,0 +1,7 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variables for length in cm and meter
+Step 3: Take input of length in cm
+Step 4: Convert that length into meter via using formula: (length in cm) / 100
+Step 5: Print the result in meters
+Step 6: Stop
