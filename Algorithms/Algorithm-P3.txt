@@ -1,0 +1,6 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare array to store 10 characters.
+Step 3: Use “for loop” to store 10 characters via using getch() & to show those values on screen.
+Step 4: Show those 10 characters on screen.
+Step 5: Stop
