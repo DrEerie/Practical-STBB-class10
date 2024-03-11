@@ -1,0 +1,6 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare a variable to store a number
+Step 3: Take input for number
+Step 4: Run for loop to multiply that number 10 times
+Step 5: Stop
