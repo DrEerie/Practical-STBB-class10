@@ -1,0 +1,8 @@
+Algorithm:
+Step 1: Start
+Step 2:  Declare variables for a integer number and factorial
+Step 3: Take input for positive integer number
+Step 4: Run for loop to calculate the factorial
+Step 5: Calculate factorial for given number via formula: (factorial * number)
+Step 6: Print the result on the screen
+Step 7: Stop
