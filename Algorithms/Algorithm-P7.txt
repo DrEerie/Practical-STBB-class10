@@ -1,0 +1,7 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variable for length, width and area of rectangle
+Step 3: Take input for length and width of rectangle
+Step 4: Calculate area of rectangle via formula: length * width
+Step 5: Print result
+Step 6: Stop
