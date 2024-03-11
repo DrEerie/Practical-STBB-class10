@@ -1,0 +1,7 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variables with float for each subject & total marks, and average percentage.
+Step 3: Extract input for subject marks.
+Step 4: Calculate and print total marks obtained and then percentage via formula: (total *100) / 700
+Step 5: Print Grade after calculating it via if-else statement
+Step 6: Stop
