@@ -1,0 +1,8 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variable for numbers, total and average
+Step 3: Take input for six numbers
+Step 4: Sum up those numbers and save it in total variable
+Step 5: Calculate the average number via using formula: total/6
+Step 6: Print the values of total and average
+Step 7: Stop
