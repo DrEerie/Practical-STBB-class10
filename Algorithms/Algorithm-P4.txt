@@ -1,0 +1,7 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variables for numbers and operations
+Step 3: Take input from user for both numbers
+Step 4: Perform the required arithmetic operations
+Step 5: Print result of those arithmetic operations
+Step 6: Stop
