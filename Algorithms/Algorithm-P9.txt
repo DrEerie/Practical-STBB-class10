@@ -1,0 +1,7 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variables for temperature in Fahrenheit and Celsius
+Step 3: Take input for temperature in Fahrenheit
+Step 4: Convert Fahrenheit into Celsius via using formula: ( fahrenheit - 32 ) * ( 5.0 / 9.0 )
+Step 5: Print the result on screen.
+Step 6: Stop
