@@ -1,0 +1,7 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variable to store a number
+Step 3: Take input for that number
+Step 4: Check that number whether it’s positive, negative or zero
+Step 5: Print message according to the result
+Step 6: Stop
