@@ -1,0 +1,5 @@
+Algorithm:
+Step 1: Start
+Step 2: Print “Welcome to our School”.
+Step 3: Print “Welcome to De Technocrats”
+Step 4: Stop
