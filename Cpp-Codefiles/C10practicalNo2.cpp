@@ -5,7 +5,7 @@ int main( void )
 	//used float to declare variable so that i won't terminate decimal values of marks
 	float Eng, Urdu, Isl, Phy, Chem, Maths, Comp, Total, Perc;
 	
-	cout << "\t\t CALCULATION OF TOTAL MARKS, PERCETAGE AND GRADE" << endl ;
+	cout << "\t\t CALCULATION OF TOTAL MARKS, PERCENTAGE AND GRADE" << endl ;
 	cout << "\t\t ===============================================" << endl ;
 	cout << "\t\t\nNote: You can enter total marks out of 100 for each subject.\n" << endl ;
 	
