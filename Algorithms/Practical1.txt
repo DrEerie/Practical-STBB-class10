@@ -1,0 +1,31 @@
+Introduction: 
+Dev-C++ is an IDE (Integrated Development Environment) that offers a unified workspace that caters to 
+various aspects of software development in C++ and C, including compiling, linking, loading, debugging, and 
+more, all in one place. 
+
+Requirements: 
+The minimum requirements for the installation of Dev-C++ are: 
+• OS: Latest version of Windows  
+• RAM: 2-4 GB (for installation on windows 10 or 11 respectively) 
+• CPU: Clock-speed @1.5GHz or faster 
+• Storage: 5G disk space 
+
+Steps: 
+1. Download Dev-C++ application file from: https://sourceforge.net/projects/orwelldevcpp/ 
+[Screenshot of website is available in folder: Output-Pics > Practical > Step1.png]
+2. When the executable file is downloaded, double click on it to launch the installation process. 
+3. Select English language for installation process.
+[Screenshot of "Installer language" is uploaded in folder: Output-Pics > Practical > Step3.png]
+4. Agree to the terms of the agreement, click “I agree” to continue. 
+[Screenshot of "License Agreement" is uploaded in folder: Output-Pics > Practical > Step4.png]
+5. Select “Full” from the dropdown for “type of Install” to install all the necessary components. Then 
+click “Next”.
+[Screenshot of "Choose Components" is uploaded in folder: Output-Pics > Practical > Step5.png]
+6. Select the destination (i.e. directory or folder) for the installation of Dev-C++ files or other related 
+libraries. We’ll go for the default folder.
+[Screenshot of "Choose Install location" is uploaded in folder: Output-Pics > Practical > Step6.png]
+7. Now Click “Install” to start installation.
+[Screenshot of "Installing" is uploaded in folder: Output-Pics > Practical > Step7.png]
+8. After the completion of installation process the installer will the finish dialog box. Check the “Run 
+Dev-C++ 5.11”. Click “Finish” to start Dev-C++.
+[Screenshot of "Download Completed" is uploaded in folder: Output-Pics > Practical > Step8.png]
