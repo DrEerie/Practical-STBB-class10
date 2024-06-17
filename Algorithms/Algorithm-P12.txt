@@ -2,6 +2,6 @@ Algorithm:
 Step 1: Start
 Step 2: Declare an array to store 10 numbers
 Step 3: Take input of those 10 numbers via running “for loop”
-Step 4: Use sort function of sort array values in ascending order
+Step 4: Use sort function to sort array values in ascending order
 Step 5: Run “for loop” for that array to print stored values in descending order
 Step 6: Stop
