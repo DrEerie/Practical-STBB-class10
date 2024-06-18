@@ -1,0 +1,7 @@
+In this text file, We gonna cover some corrections (that are actually typos) under the Algorithm heading in the first edtion of Hardcopy of the book.
+
+1) Step 4 in practical no. 11 and 12 is :   Use sort function of sort array values in ascending order.
+  while the corrected version is:  Use sort function to sort array values in ascending order.  ("to" inplace of "of")
+
+2) Step 5: in practical no. 12 is: Run “for loop” for that array to print stored values in descending order.
+  While the corrected version is: Run “for loop” for that array to print stored values in ascending order 
