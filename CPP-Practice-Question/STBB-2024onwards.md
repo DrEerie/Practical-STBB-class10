@@ -23,4 +23,4 @@
 
 
 ### Note: Solutions of of all above objectives are all available in the video-tutorial section.
-#### PS:  I changed the arrangement according to their ease. But mentioned the actual objective no. at the end so that you one can check for the their good solution in the recorded vidoe
+#### PS:  I changed the arrangement according to their ease. But mentioned the actual objective no. at the end so that you one can check for the their good solution in the recorded video.
