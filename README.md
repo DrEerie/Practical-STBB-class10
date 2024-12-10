@@ -1,5 +1,4 @@
 # Cpp-STBB-class10
 
-This repository is to accompany with.....I'll add later ....
+It's recommended to watch video tutorial (links are given under the "Video Tutorial") if you've any problem.
 
-Note: This repository is still under developement...
